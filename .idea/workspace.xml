@@ -9,19 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b8d2229-141d-4441-b518-582e33060902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/adjacency-list-graph/ListaGraf.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adjacency-matrix-graph/Graf.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/avl-tree/AVLStablo.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binary-tree-map/Mapa.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dequeue/Dek.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/double-linked-list/DvostrukaLista.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash-map/HashMapa.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hash-map/HashMapaLan.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radix-heap-sort/Sort.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack-binary-search/Pretraga.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0b8d2229-141d-4441-b518-582e33060902" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +22,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list/Lista.cpp">
+        <entry file="file://$PROJECT_DIR$/single-linked-list/Lista.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3431">
               <caret line="670" column="31" selection-start-line="670" selection-start-column="22" selection-end-line="670" selection-end-column="31" />
@@ -340,8 +328,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hash-map/HashMapaLan.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+            <state relative-caret-position="186">
+              <caret line="192" column="69" selection-start-line="192" selection-start-column="69" selection-end-line="192" selection-end-column="69" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#257#287#0" expanded="true" />
@@ -410,11 +398,6 @@
               <item name="algorithms-data-structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms-data-structures" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithms-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithms-data-structures" type="462c0819:PsiDirectoryNode" />
-              <item name="hash-map" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -455,23 +438,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589125615585</updated>
-      <workItem from="1589125616851" duration="2557000" />
+      <workItem from="1589125616851" duration="3522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2557000" />
+    <option name="totallyTimeSpent" value="3522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7383592" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7383592" visible="true" weight="0.24966443" />
       <window_info id="Favorites" order="1" sideWeight="0.2616408" side_tool="true" visible="true" weight="0.24966443" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3611898" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3611898" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
@@ -681,7 +663,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/list/Lista.cpp">
+    <entry file="file://$PROJECT_DIR$/single-linked-list/Lista.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3431">
           <caret line="670" column="31" selection-start-line="670" selection-start-column="22" selection-end-line="670" selection-end-column="31" />
@@ -922,8 +904,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hash-map/HashMapaLan.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+        <state relative-caret-position="186">
+          <caret line="192" column="69" selection-start-line="192" selection-start-column="69" selection-end-line="192" selection-end-column="69" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <element signature="e#257#287#0" expanded="true" />

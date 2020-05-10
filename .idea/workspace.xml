@@ -10,12 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b8d2229-141d-4441-b518-582e33060902" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/queue/Red.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/Rekurzija.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting-algorithms/algoritmi-sortiranja.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adjacency-list-graph/ListaGraf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adjacency-matrix-graph/Graf.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/avl-tree/AVLStablo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary-tree-map/Mapa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dequeue/Dek.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/double-linked-list/DvostrukaLista.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash-map/HashMapa.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hash-map/HashMapaLan.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radix-heap-sort/Sort.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack-binary-search/Pretraga.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista/Lista.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/list/Lista.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stack/Stek.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/stack/Stek.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,13 +28,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algorithms-data-structures" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/list/Lista.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="345" column="18" lean-forward="true" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
+            <state relative-caret-position="3431">
+              <caret line="670" column="31" selection-start-line="670" selection-start-column="22" selection-end-line="670" selection-end-column="31" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <element signature="e#51#65#0" expanded="true" />
@@ -55,41 +63,113 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stack/Stek.cpp">
+        <entry file="file://$PROJECT_DIR$/dequeue/Dek.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3485">
-              <caret line="205" lean-forward="true" selection-start-line="205" selection-end-line="205" />
+            <state relative-caret-position="203">
+              <caret line="267" column="33" selection-start-line="267" selection-start-column="33" selection-end-line="267" selection-end-column="33" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#51#65#0" expanded="true" />
-                <element signature="e#748#762#0" expanded="true" />
-                <element signature="e#1052#1066#0" expanded="true" />
-                <element signature="e#1223#1237#0" expanded="true" />
-                <element signature="e#1312#1326#0" expanded="true" />
-                <element signature="e#1422#1436#0" expanded="true" />
-                <element signature="e#1615#1629#0" expanded="true" />
-                <element signature="e#1711#1725#0" expanded="true" />
-                <element signature="e#1801#1815#0" expanded="true" />
+                <element signature="e#30#44#0" expanded="true" />
+                <element signature="e#1171#1185#0" expanded="true" />
+                <element signature="e#1271#1285#0" expanded="true" />
+                <element signature="e#1478#1492#0" expanded="true" />
+                <element signature="e#1575#1589#0" expanded="true" />
+                <element signature="e#1693#1707#0" expanded="true" />
+                <element signature="e#1771#1785#0" expanded="true" />
+                <element signature="e#1912#1926#0" expanded="true" />
+                <element signature="e#2097#2111#0" expanded="true" />
+                <element signature="e#2172#2186#0" expanded="true" />
+                <element signature="e#2257#2271#0" expanded="true" />
+                <element signature="e#2535#2549#0" expanded="true" />
+                <element signature="e#2812#2826#0" expanded="true" />
+                <element signature="e#3116#3130#0" expanded="true" />
+                <element signature="e#3401#3415#0" expanded="true" />
+                <element signature="e#3504#3518#0" expanded="true" />
+                <element signature="e#3612#3626#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queue/Red.cpp">
+        <entry file="file://$PROJECT_DIR$/stack-binary-search/Pretraga.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3553">
-              <caret line="209" column="24" lean-forward="true" selection-start-line="209" selection-start-column="24" selection-end-line="209" selection-end-column="24" />
+            <state relative-caret-position="257">
+              <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
               <folding>
-                <element signature="e#30#44#0" expanded="true" />
-                <element signature="e#812#826#0" expanded="true" />
-                <element signature="e#899#913#0" expanded="true" />
-                <element signature="e#1073#1087#0" expanded="true" />
-                <element signature="e#1229#1243#0" expanded="true" />
-                <element signature="e#1455#1469#0" expanded="true" />
-                <element signature="e#1737#1751#0" expanded="true" />
-                <element signature="e#1850#1864#0" expanded="true" />
-                <element signature="e#1937#1951#0" expanded="true" />
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#94#108#0" expanded="true" />
+                <element signature="e#860#874#0" expanded="true" />
+                <element signature="e#1164#1178#0" expanded="true" />
+                <element signature="e#1335#1349#0" expanded="true" />
+                <element signature="e#1424#1438#0" expanded="true" />
+                <element signature="e#1534#1548#0" expanded="true" />
+                <element signature="e#1727#1741#0" expanded="true" />
+                <element signature="e#1823#1837#0" expanded="true" />
+                <element signature="e#1913#1927#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/radix-heap-sort/Sort.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/double-linked-list/DvostrukaLista.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1546">
+              <caret line="585" selection-start-line="585" selection-end-line="585" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#69#83#0" expanded="true" />
+                <element signature="e#110#124#0" expanded="true" />
+                <element signature="e#705#719#0" expanded="true" />
+                <element signature="e#2122#2136#0" expanded="true" />
+                <element signature="e#2297#2311#0" expanded="true" />
+                <element signature="e#2513#2527#0" expanded="true" />
+                <element signature="e#2640#2654#0" expanded="true" />
+                <element signature="e#3191#3205#0" expanded="true" />
+                <element signature="e#3492#3506#0" expanded="true" />
+                <element signature="e#3598#3612#0" expanded="true" />
+                <element signature="e#3789#3803#0" expanded="true" />
+                <element signature="e#3872#3886#0" expanded="true" />
+                <element signature="e#3954#3968#0" expanded="true" />
+                <element signature="e#4090#4104#0" expanded="true" />
+                <element signature="e#4213#4227#0" expanded="true" />
+                <element signature="e#4319#4333#0" expanded="true" />
+                <element signature="e#4513#4527#0" expanded="true" />
+                <element signature="e#4794#4808#0" expanded="true" />
+                <element signature="e#5011#5025#0" expanded="true" />
+                <element signature="e#5251#5265#0" expanded="true" />
+                <element signature="e#5751#5765#0" expanded="true" />
+                <element signature="e#6215#6229#0" expanded="true" />
+                <element signature="e#6561#6575#0" expanded="true" />
+                <element signature="e#6670#6684#0" expanded="true" />
+                <element signature="e#6784#6798#0" expanded="true" />
+                <element signature="e#7111#7125#0" expanded="true" />
+                <element signature="e#7236#7250#0" expanded="true" />
+                <element signature="e#7414#7428#0" expanded="true" />
+                <element signature="e#7530#7544#0" expanded="true" />
+                <element signature="e#7720#7734#0" expanded="true" />
+                <element signature="e#7902#7916#0" expanded="true" />
+                <element signature="e#8018#8032#0" expanded="true" />
+                <element signature="e#8129#8143#0" expanded="true" />
+                <element signature="e#8447#8461#0" expanded="true" />
+                <element signature="e#8650#8664#0" expanded="true" />
+                <element signature="e#9003#9017#0" expanded="true" />
+                <element signature="e#9377#9391#0" expanded="true" />
+                <element signature="e#9961#9975#0" expanded="true" />
+                <element signature="e#10522#10536#0" expanded="true" />
+                <element signature="e#11385#11399#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -98,34 +178,195 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/recursion/Rekurzija.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
+            <state relative-caret-position="782">
               <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sorting-algorithms/algoritmi-sortiranja.cpp">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/avl-tree/AVLStablo.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="234" column="17" lean-forward="true" selection-start-line="234" selection-start-column="17" selection-end-line="234" selection-end-column="17" />
+            <state relative-caret-position="152">
+              <caret line="331" column="1" lean-forward="true" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
-                <element signature="e#164#178#0" expanded="true" />
-                <element signature="e#298#312#0" expanded="true" />
-                <element signature="e#540#554#0" expanded="true" />
-                <element signature="e#882#896#0" expanded="true" />
-                <element signature="e#1238#1252#0" expanded="true" />
-                <element signature="e#1441#1455#0" expanded="true" />
-                <element signature="e#1536#1550#0" expanded="true" />
-                <element signature="e#2076#2090#0" expanded="true" />
-                <element signature="e#2339#2353#0" expanded="true" />
+                <element signature="e#165#195#0" expanded="true" />
+                <element signature="e#499#529#0" expanded="true" />
+                <element signature="e#2056#2086#0" expanded="true" />
+                <element signature="e#2161#2191#0" expanded="true" />
+                <element signature="e#2345#2375#0" expanded="true" />
+                <element signature="e#2460#2490#0" expanded="true" />
+                <element signature="e#2780#2810#0" expanded="true" />
+                <element signature="e#2976#3006#0" expanded="true" />
+                <element signature="e#3272#3302#0" expanded="true" />
+                <element signature="e#3409#3439#0" expanded="true" />
+                <element signature="e#5836#5866#0" expanded="true" />
+                <element signature="e#6086#6116#0" expanded="true" />
+                <element signature="e#6296#6326#0" expanded="true" />
+                <element signature="e#7027#7056#0" expanded="true" />
+                <element signature="e#7443#7472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adjacency-matrix-graph/Graf.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11775">
+              <caret line="771" column="13" lean-forward="true" selection-start-line="771" selection-start-column="13" selection-end-line="771" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#147#167#0" expanded="true" />
+                <element signature="e#190#210#0" expanded="true" />
+                <element signature="e#232#252#0" expanded="true" />
+                <element signature="e#283#303#0" expanded="true" />
+                <element signature="e#333#353#0" expanded="true" />
+                <element signature="e#1520#1540#0" expanded="true" />
+                <element signature="e#2694#2714#0" expanded="true" />
+                <element signature="e#3098#3118#0" expanded="true" />
+                <element signature="e#3590#3610#0" expanded="true" />
+                <element signature="e#5330#5350#0" expanded="true" />
+                <element signature="e#5548#5568#0" expanded="true" />
+                <element signature="e#5824#5844#0" expanded="true" />
+                <element signature="e#6435#6455#0" expanded="true" />
+                <element signature="e#7032#7052#0" expanded="true" />
+                <element signature="e#7173#7193#0" expanded="true" />
+                <element signature="e#7307#7327#0" expanded="true" />
+                <element signature="e#7428#7448#0" expanded="true" />
+                <element signature="e#7777#7797#0" expanded="true" />
+                <element signature="e#7944#7964#0" expanded="true" />
+                <element signature="e#8132#8152#0" expanded="true" />
+                <element signature="e#8297#8317#0" expanded="true" />
+                <element signature="e#8450#8470#0" expanded="true" />
+                <element signature="e#8589#8609#0" expanded="true" />
+                <element signature="e#8736#8756#0" expanded="true" />
+                <element signature="e#8872#8892#0" expanded="true" />
+                <element signature="e#9038#9058#0" expanded="true" />
+                <element signature="e#9193#9213#0" expanded="true" />
+                <element signature="e#9659#9679#0" expanded="true" />
+                <element signature="e#9826#9846#0" expanded="true" />
+                <element signature="e#9977#9997#0" expanded="true" />
+                <element signature="e#10066#10086#0" expanded="true" />
+                <element signature="e#10240#10260#0" expanded="true" />
+                <element signature="e#10333#10353#0" expanded="true" />
+                <element signature="e#10511#10531#0" expanded="true" />
+                <element signature="e#10669#10689#0" expanded="true" />
+                <element signature="e#10845#10865#0" expanded="true" />
+                <element signature="e#10938#10958#0" expanded="true" />
+                <element signature="e#11162#11182#0" expanded="true" />
+                <element signature="e#11350#11370#0" expanded="true" />
+                <element signature="e#11489#11509#0" expanded="true" />
+                <element signature="e#11807#11827#0" expanded="true" />
+                <element signature="e#12063#12083#0" expanded="true" />
+                <element signature="e#12518#12538#0" expanded="true" />
+                <element signature="e#12849#12869#0" expanded="true" />
+                <element signature="e#13551#13571#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adjacency-list-graph/ListaGraf.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10659">
+              <caret line="702" selection-start-line="702" selection-end-line="702" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#257#287#0" expanded="true" />
+                <element signature="e#606#636#0" expanded="true" />
+                <element signature="e#1811#1841#0" expanded="true" />
+                <element signature="e#1935#1965#0" expanded="true" />
+                <element signature="e#2148#2178#0" expanded="true" />
+                <element signature="e#2495#2525#0" expanded="true" />
+                <element signature="e#2608#2638#0" expanded="true" />
+                <element signature="e#2762#2792#0" expanded="true" />
+                <element signature="e#3240#3270#0" expanded="true" />
+                <element signature="e#3797#3827#0" expanded="true" />
+                <element signature="e#4236#4266#0" expanded="true" />
+                <element signature="e#4679#4709#0" expanded="true" />
+                <element signature="e#5071#5091#0" expanded="true" />
+                <element signature="e#5114#5134#0" expanded="true" />
+                <element signature="e#5156#5176#0" expanded="true" />
+                <element signature="e#5207#5227#0" expanded="true" />
+                <element signature="e#5255#5275#0" expanded="true" />
+                <element signature="e#6442#6462#0" expanded="true" />
+                <element signature="e#7614#7634#0" expanded="true" />
+                <element signature="e#8018#8038#0" expanded="true" />
+                <element signature="e#8510#8530#0" expanded="true" />
+                <element signature="e#10234#10254#0" expanded="true" />
+                <element signature="e#10454#10474#0" expanded="true" />
+                <element signature="e#10638#10658#0" expanded="true" />
+                <element signature="e#11028#11048#0" expanded="true" />
+                <element signature="e#11637#11657#0" expanded="true" />
+                <element signature="e#11881#11901#0" expanded="true" />
+                <element signature="e#12012#12032#0" expanded="true" />
+                <element signature="e#12131#12151#0" expanded="true" />
+                <element signature="e#12355#12375#0" expanded="true" />
+                <element signature="e#12661#12681#0" expanded="true" />
+                <element signature="e#12852#12872#0" expanded="true" />
+                <element signature="e#13115#13135#0" expanded="true" />
+                <element signature="e#13384#13404#0" expanded="true" />
+                <element signature="e#13629#13649#0" expanded="true" />
+                <element signature="e#13773#13793#0" expanded="true" />
+                <element signature="e#13906#13926#0" expanded="true" />
+                <element signature="e#14171#14191#0" expanded="true" />
+                <element signature="e#14425#14445#0" expanded="true" />
+                <element signature="e#15002#15022#0" expanded="true" />
+                <element signature="e#15261#15281#0" expanded="true" />
+                <element signature="e#15409#15429#0" expanded="true" />
+                <element signature="e#15498#15518#0" expanded="true" />
+                <element signature="e#15668#15688#0" expanded="true" />
+                <element signature="e#15761#15781#0" expanded="true" />
+                <element signature="e#15939#15959#0" expanded="true" />
+                <element signature="e#16094#16114#0" expanded="true" />
+                <element signature="e#16266#16286#0" expanded="true" />
+                <element signature="e#16358#16378#0" expanded="true" />
+                <element signature="e#16527#16547#0" expanded="true" />
+                <element signature="e#16714#16734#0" expanded="true" />
+                <element signature="e#16852#16872#0" expanded="true" />
+                <element signature="e#17166#17186#0" expanded="true" />
+                <element signature="e#17419#17439#0" expanded="true" />
+                <element signature="e#17893#17913#0" expanded="true" />
+                <element signature="e#18225#18245#0" expanded="true" />
+                <element signature="e#18943#18963#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hash-map/HashMapaLan.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#257#287#0" expanded="true" />
+                <element signature="e#606#636#0" expanded="true" />
+                <element signature="e#1811#1841#0" expanded="true" />
+                <element signature="e#1935#1965#0" expanded="true" />
+                <element signature="e#2148#2178#0" expanded="true" />
+                <element signature="e#2495#2525#0" expanded="true" />
+                <element signature="e#2608#2638#0" expanded="true" />
+                <element signature="e#2762#2792#0" expanded="true" />
+                <element signature="e#3240#3270#0" expanded="true" />
+                <element signature="e#3797#3827#0" expanded="true" />
+                <element signature="e#4236#4266#0" expanded="true" />
+                <element signature="e#4679#4709#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jednostru</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -138,6 +379,16 @@
         <option value="$PROJECT_DIR$/Queue/Red.cpp" />
         <option value="$PROJECT_DIR$/Recursion/Rekurzija.cpp" />
         <option value="$PROJECT_DIR$/sorting-algorithms/algoritmi-sortiranja.cpp" />
+        <option value="$PROJECT_DIR$/map/Mapa.cpp" />
+        <option value="$PROJECT_DIR$/hash-map/HashMapa.cpp" />
+        <option value="$PROJECT_DIR$/graph/Graf.cpp" />
+        <option value="$PROJECT_DIR$/double-linked-list/DvostrukaLista.cpp" />
+        <option value="$PROJECT_DIR$/dequeue/Dek.cpp" />
+        <option value="$PROJECT_DIR$/stack-binary-search/Pretraga.cpp" />
+        <option value="$PROJECT_DIR$/radix-heap-sort/Sort.cpp" />
+        <option value="$PROJECT_DIR$/avl-tree/AVLStablo.cpp" />
+        <option value="$PROJECT_DIR$/adjacency-list-graph/ListaGraf.cpp" />
+        <option value="$PROJECT_DIR$/hash-map/HashMapaLan.cpp" />
       </list>
     </option>
   </component>
@@ -159,6 +410,11 @@
               <item name="algorithms-data-structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms-data-structures" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithms-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithms-data-structures" type="462c0819:PsiDirectoryNode" />
+              <item name="hash-map" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -171,6 +427,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\CLionProjects\algorithms-data-structures\" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,26 +455,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589125615585</updated>
-      <workItem from="1589125616851" duration="1037000" />
+      <workItem from="1589125616851" duration="2557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1037000" />
+    <option name="totallyTimeSpent" value="2557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7383592" visible="true" weight="0.24966443" />
+      <window_info id="Favorites" order="1" sideWeight="0.2616408" side_tool="true" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.3286119" />
-      <window_info anchor="bottom" id="Terminal" weight="0.29745042" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3611898" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -229,33 +490,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list/Lista.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="345" column="18" lean-forward="true" selection-start-line="345" selection-start-column="18" selection-end-line="345" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-            <element signature="e#51#65#0" expanded="true" />
-            <element signature="e#646#663#0" expanded="true" />
-            <element signature="e#5462#5476#0" expanded="true" />
-            <element signature="e#12758#12772#0" expanded="true" />
-            <element signature="e#12956#12970#0" expanded="true" />
-            <element signature="e#13304#13318#0" expanded="true" />
-            <element signature="e#13673#13687#0" expanded="true" />
-            <element signature="e#14252#14266#0" expanded="true" />
-            <element signature="e#14808#14822#0" expanded="true" />
-            <element signature="e#15666#15680#0" expanded="true" />
-            <element signature="e#16165#16179#0" expanded="true" />
-            <element signature="e#16371#16385#0" expanded="true" />
-            <element signature="e#16727#16741#0" expanded="true" />
-            <element signature="e#17104#17118#0" expanded="true" />
-            <element signature="e#17691#17705#0" expanded="true" />
-            <element signature="e#18241#18255#0" expanded="true" />
-            <element signature="e#19112#19126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stack/Stek.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3485">
@@ -293,16 +527,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/recursion/Rekurzija.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sorting-algorithms/algoritmi-sortiranja.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="248">
           <caret line="234" column="17" lean-forward="true" selection-start-line="234" selection-start-column="17" selection-end-line="234" selection-end-column="17" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -315,6 +542,402 @@
             <element signature="e#1536#1550#0" expanded="true" />
             <element signature="e#2076#2090#0" expanded="true" />
             <element signature="e#2339#2353#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/binary-tree-map/Mapa.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="442" lean-forward="true" selection-start-line="442" selection-end-line="442" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#165#195#0" expanded="true" />
+            <element signature="e#499#529#0" expanded="true" />
+            <element signature="e#1158#1188#0" expanded="true" />
+            <element signature="e#1301#1331#0" expanded="true" />
+            <element signature="e#1544#1574#0" expanded="true" />
+            <element signature="e#1653#1683#0" expanded="true" />
+            <element signature="e#1768#1798#0" expanded="true" />
+            <element signature="e#1997#2027#0" expanded="true" />
+            <element signature="e#2440#2470#0" expanded="true" />
+            <element signature="e#2857#2887#0" expanded="true" />
+            <element signature="e#2964#2994#0" expanded="true" />
+            <element signature="e#3194#3224#0" expanded="true" />
+            <element signature="e#3599#3629#0" expanded="true" />
+            <element signature="e#3985#4015#0" expanded="true" />
+            <element signature="e#4384#4414#0" expanded="true" />
+            <element signature="e#5741#5771#0" expanded="true" />
+            <element signature="e#5846#5876#0" expanded="true" />
+            <element signature="e#6030#6060#0" expanded="true" />
+            <element signature="e#6145#6175#0" expanded="true" />
+            <element signature="e#6465#6495#0" expanded="true" />
+            <element signature="e#6661#6691#0" expanded="true" />
+            <element signature="e#6957#6987#0" expanded="true" />
+            <element signature="e#7094#7124#0" expanded="true" />
+            <element signature="e#8995#9025#0" expanded="true" />
+            <element signature="e#9247#9277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash-map/HashMapa.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="730" lean-forward="true" selection-start-line="730" selection-end-line="730" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#186#216#0" expanded="true" />
+            <element signature="e#532#562#0" expanded="true" />
+            <element signature="e#1708#1738#0" expanded="true" />
+            <element signature="e#1880#1910#0" expanded="true" />
+            <element signature="e#2200#2230#0" expanded="true" />
+            <element signature="e#2752#2782#0" expanded="true" />
+            <element signature="e#2869#2899#0" expanded="true" />
+            <element signature="e#3144#3174#0" expanded="true" />
+            <element signature="e#3608#3638#0" expanded="true" />
+            <element signature="e#3718#3748#0" expanded="true" />
+            <element signature="e#3826#3856#0" expanded="true" />
+            <element signature="e#4102#4132#0" expanded="true" />
+            <element signature="e#4315#4345#0" expanded="true" />
+            <element signature="e#4800#4830#0" expanded="true" />
+            <element signature="e#5396#5426#0" expanded="true" />
+            <element signature="e#5661#5691#0" expanded="true" />
+            <element signature="e#6047#6077#0" expanded="true" />
+            <element signature="e#6706#6736#0" expanded="true" />
+            <element signature="e#6849#6879#0" expanded="true" />
+            <element signature="e#7092#7122#0" expanded="true" />
+            <element signature="e#7201#7231#0" expanded="true" />
+            <element signature="e#7316#7346#0" expanded="true" />
+            <element signature="e#7545#7575#0" expanded="true" />
+            <element signature="e#7988#8018#0" expanded="true" />
+            <element signature="e#8405#8435#0" expanded="true" />
+            <element signature="e#8512#8542#0" expanded="true" />
+            <element signature="e#8742#8772#0" expanded="true" />
+            <element signature="e#9147#9177#0" expanded="true" />
+            <element signature="e#9533#9563#0" expanded="true" />
+            <element signature="e#9924#9954#0" expanded="true" />
+            <element signature="e#11281#11311#0" expanded="true" />
+            <element signature="e#11386#11416#0" expanded="true" />
+            <element signature="e#11570#11600#0" expanded="true" />
+            <element signature="e#11685#11715#0" expanded="true" />
+            <element signature="e#12005#12035#0" expanded="true" />
+            <element signature="e#12201#12231#0" expanded="true" />
+            <element signature="e#12497#12527#0" expanded="true" />
+            <element signature="e#12634#12664#0" expanded="true" />
+            <element signature="e#14535#14565#0" expanded="true" />
+            <element signature="e#14787#14817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/double-linked-list/DvostrukaLista.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1546">
+          <caret line="585" selection-start-line="585" selection-end-line="585" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#69#83#0" expanded="true" />
+            <element signature="e#110#124#0" expanded="true" />
+            <element signature="e#705#719#0" expanded="true" />
+            <element signature="e#2122#2136#0" expanded="true" />
+            <element signature="e#2297#2311#0" expanded="true" />
+            <element signature="e#2513#2527#0" expanded="true" />
+            <element signature="e#2640#2654#0" expanded="true" />
+            <element signature="e#3191#3205#0" expanded="true" />
+            <element signature="e#3492#3506#0" expanded="true" />
+            <element signature="e#3598#3612#0" expanded="true" />
+            <element signature="e#3789#3803#0" expanded="true" />
+            <element signature="e#3872#3886#0" expanded="true" />
+            <element signature="e#3954#3968#0" expanded="true" />
+            <element signature="e#4090#4104#0" expanded="true" />
+            <element signature="e#4213#4227#0" expanded="true" />
+            <element signature="e#4319#4333#0" expanded="true" />
+            <element signature="e#4513#4527#0" expanded="true" />
+            <element signature="e#4794#4808#0" expanded="true" />
+            <element signature="e#5011#5025#0" expanded="true" />
+            <element signature="e#5251#5265#0" expanded="true" />
+            <element signature="e#5751#5765#0" expanded="true" />
+            <element signature="e#6215#6229#0" expanded="true" />
+            <element signature="e#6561#6575#0" expanded="true" />
+            <element signature="e#6670#6684#0" expanded="true" />
+            <element signature="e#6784#6798#0" expanded="true" />
+            <element signature="e#7111#7125#0" expanded="true" />
+            <element signature="e#7236#7250#0" expanded="true" />
+            <element signature="e#7414#7428#0" expanded="true" />
+            <element signature="e#7530#7544#0" expanded="true" />
+            <element signature="e#7720#7734#0" expanded="true" />
+            <element signature="e#7902#7916#0" expanded="true" />
+            <element signature="e#8018#8032#0" expanded="true" />
+            <element signature="e#8129#8143#0" expanded="true" />
+            <element signature="e#8447#8461#0" expanded="true" />
+            <element signature="e#8650#8664#0" expanded="true" />
+            <element signature="e#9003#9017#0" expanded="true" />
+            <element signature="e#9377#9391#0" expanded="true" />
+            <element signature="e#9961#9975#0" expanded="true" />
+            <element signature="e#10522#10536#0" expanded="true" />
+            <element signature="e#11385#11399#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list/Lista.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3431">
+          <caret line="670" column="31" selection-start-line="670" selection-start-column="22" selection-end-line="670" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#51#65#0" expanded="true" />
+            <element signature="e#646#663#0" expanded="true" />
+            <element signature="e#5462#5476#0" expanded="true" />
+            <element signature="e#12758#12772#0" expanded="true" />
+            <element signature="e#12956#12970#0" expanded="true" />
+            <element signature="e#13304#13318#0" expanded="true" />
+            <element signature="e#13673#13687#0" expanded="true" />
+            <element signature="e#14252#14266#0" expanded="true" />
+            <element signature="e#14808#14822#0" expanded="true" />
+            <element signature="e#15666#15680#0" expanded="true" />
+            <element signature="e#16165#16179#0" expanded="true" />
+            <element signature="e#16371#16385#0" expanded="true" />
+            <element signature="e#16727#16741#0" expanded="true" />
+            <element signature="e#17104#17118#0" expanded="true" />
+            <element signature="e#17691#17705#0" expanded="true" />
+            <element signature="e#18241#18255#0" expanded="true" />
+            <element signature="e#19112#19126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dequeue/Dek.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="267" column="33" selection-start-line="267" selection-start-column="33" selection-end-line="267" selection-end-column="33" />
+          <folding>
+            <element signature="e#30#44#0" expanded="true" />
+            <element signature="e#1171#1185#0" expanded="true" />
+            <element signature="e#1271#1285#0" expanded="true" />
+            <element signature="e#1478#1492#0" expanded="true" />
+            <element signature="e#1575#1589#0" expanded="true" />
+            <element signature="e#1693#1707#0" expanded="true" />
+            <element signature="e#1771#1785#0" expanded="true" />
+            <element signature="e#1912#1926#0" expanded="true" />
+            <element signature="e#2097#2111#0" expanded="true" />
+            <element signature="e#2172#2186#0" expanded="true" />
+            <element signature="e#2257#2271#0" expanded="true" />
+            <element signature="e#2535#2549#0" expanded="true" />
+            <element signature="e#2812#2826#0" expanded="true" />
+            <element signature="e#3116#3130#0" expanded="true" />
+            <element signature="e#3401#3415#0" expanded="true" />
+            <element signature="e#3504#3518#0" expanded="true" />
+            <element signature="e#3612#3626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stack-binary-search/Pretraga.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#94#108#0" expanded="true" />
+            <element signature="e#860#874#0" expanded="true" />
+            <element signature="e#1164#1178#0" expanded="true" />
+            <element signature="e#1335#1349#0" expanded="true" />
+            <element signature="e#1424#1438#0" expanded="true" />
+            <element signature="e#1534#1548#0" expanded="true" />
+            <element signature="e#1727#1741#0" expanded="true" />
+            <element signature="e#1823#1837#0" expanded="true" />
+            <element signature="e#1913#1927#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/radix-heap-sort/Sort.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursion/Rekurzija.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/avl-tree/AVLStablo.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="331" column="1" lean-forward="true" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#165#195#0" expanded="true" />
+            <element signature="e#499#529#0" expanded="true" />
+            <element signature="e#2056#2086#0" expanded="true" />
+            <element signature="e#2161#2191#0" expanded="true" />
+            <element signature="e#2345#2375#0" expanded="true" />
+            <element signature="e#2460#2490#0" expanded="true" />
+            <element signature="e#2780#2810#0" expanded="true" />
+            <element signature="e#2976#3006#0" expanded="true" />
+            <element signature="e#3272#3302#0" expanded="true" />
+            <element signature="e#3409#3439#0" expanded="true" />
+            <element signature="e#5836#5866#0" expanded="true" />
+            <element signature="e#6086#6116#0" expanded="true" />
+            <element signature="e#6296#6326#0" expanded="true" />
+            <element signature="e#7027#7056#0" expanded="true" />
+            <element signature="e#7443#7472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adjacency-list-graph/Mapa.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adjacency-matrix-graph/Graf.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11775">
+          <caret line="771" column="13" lean-forward="true" selection-start-line="771" selection-start-column="13" selection-end-line="771" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#147#167#0" expanded="true" />
+            <element signature="e#190#210#0" expanded="true" />
+            <element signature="e#232#252#0" expanded="true" />
+            <element signature="e#283#303#0" expanded="true" />
+            <element signature="e#333#353#0" expanded="true" />
+            <element signature="e#1520#1540#0" expanded="true" />
+            <element signature="e#2694#2714#0" expanded="true" />
+            <element signature="e#3098#3118#0" expanded="true" />
+            <element signature="e#3590#3610#0" expanded="true" />
+            <element signature="e#5330#5350#0" expanded="true" />
+            <element signature="e#5548#5568#0" expanded="true" />
+            <element signature="e#5824#5844#0" expanded="true" />
+            <element signature="e#6435#6455#0" expanded="true" />
+            <element signature="e#7032#7052#0" expanded="true" />
+            <element signature="e#7173#7193#0" expanded="true" />
+            <element signature="e#7307#7327#0" expanded="true" />
+            <element signature="e#7428#7448#0" expanded="true" />
+            <element signature="e#7777#7797#0" expanded="true" />
+            <element signature="e#7944#7964#0" expanded="true" />
+            <element signature="e#8132#8152#0" expanded="true" />
+            <element signature="e#8297#8317#0" expanded="true" />
+            <element signature="e#8450#8470#0" expanded="true" />
+            <element signature="e#8589#8609#0" expanded="true" />
+            <element signature="e#8736#8756#0" expanded="true" />
+            <element signature="e#8872#8892#0" expanded="true" />
+            <element signature="e#9038#9058#0" expanded="true" />
+            <element signature="e#9193#9213#0" expanded="true" />
+            <element signature="e#9659#9679#0" expanded="true" />
+            <element signature="e#9826#9846#0" expanded="true" />
+            <element signature="e#9977#9997#0" expanded="true" />
+            <element signature="e#10066#10086#0" expanded="true" />
+            <element signature="e#10240#10260#0" expanded="true" />
+            <element signature="e#10333#10353#0" expanded="true" />
+            <element signature="e#10511#10531#0" expanded="true" />
+            <element signature="e#10669#10689#0" expanded="true" />
+            <element signature="e#10845#10865#0" expanded="true" />
+            <element signature="e#10938#10958#0" expanded="true" />
+            <element signature="e#11162#11182#0" expanded="true" />
+            <element signature="e#11350#11370#0" expanded="true" />
+            <element signature="e#11489#11509#0" expanded="true" />
+            <element signature="e#11807#11827#0" expanded="true" />
+            <element signature="e#12063#12083#0" expanded="true" />
+            <element signature="e#12518#12538#0" expanded="true" />
+            <element signature="e#12849#12869#0" expanded="true" />
+            <element signature="e#13551#13571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adjacency-list-graph/ListaGraf.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10659">
+          <caret line="702" selection-start-line="702" selection-end-line="702" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#257#287#0" expanded="true" />
+            <element signature="e#606#636#0" expanded="true" />
+            <element signature="e#1811#1841#0" expanded="true" />
+            <element signature="e#1935#1965#0" expanded="true" />
+            <element signature="e#2148#2178#0" expanded="true" />
+            <element signature="e#2495#2525#0" expanded="true" />
+            <element signature="e#2608#2638#0" expanded="true" />
+            <element signature="e#2762#2792#0" expanded="true" />
+            <element signature="e#3240#3270#0" expanded="true" />
+            <element signature="e#3797#3827#0" expanded="true" />
+            <element signature="e#4236#4266#0" expanded="true" />
+            <element signature="e#4679#4709#0" expanded="true" />
+            <element signature="e#5071#5091#0" expanded="true" />
+            <element signature="e#5114#5134#0" expanded="true" />
+            <element signature="e#5156#5176#0" expanded="true" />
+            <element signature="e#5207#5227#0" expanded="true" />
+            <element signature="e#5255#5275#0" expanded="true" />
+            <element signature="e#6442#6462#0" expanded="true" />
+            <element signature="e#7614#7634#0" expanded="true" />
+            <element signature="e#8018#8038#0" expanded="true" />
+            <element signature="e#8510#8530#0" expanded="true" />
+            <element signature="e#10234#10254#0" expanded="true" />
+            <element signature="e#10454#10474#0" expanded="true" />
+            <element signature="e#10638#10658#0" expanded="true" />
+            <element signature="e#11028#11048#0" expanded="true" />
+            <element signature="e#11637#11657#0" expanded="true" />
+            <element signature="e#11881#11901#0" expanded="true" />
+            <element signature="e#12012#12032#0" expanded="true" />
+            <element signature="e#12131#12151#0" expanded="true" />
+            <element signature="e#12355#12375#0" expanded="true" />
+            <element signature="e#12661#12681#0" expanded="true" />
+            <element signature="e#12852#12872#0" expanded="true" />
+            <element signature="e#13115#13135#0" expanded="true" />
+            <element signature="e#13384#13404#0" expanded="true" />
+            <element signature="e#13629#13649#0" expanded="true" />
+            <element signature="e#13773#13793#0" expanded="true" />
+            <element signature="e#13906#13926#0" expanded="true" />
+            <element signature="e#14171#14191#0" expanded="true" />
+            <element signature="e#14425#14445#0" expanded="true" />
+            <element signature="e#15002#15022#0" expanded="true" />
+            <element signature="e#15261#15281#0" expanded="true" />
+            <element signature="e#15409#15429#0" expanded="true" />
+            <element signature="e#15498#15518#0" expanded="true" />
+            <element signature="e#15668#15688#0" expanded="true" />
+            <element signature="e#15761#15781#0" expanded="true" />
+            <element signature="e#15939#15959#0" expanded="true" />
+            <element signature="e#16094#16114#0" expanded="true" />
+            <element signature="e#16266#16286#0" expanded="true" />
+            <element signature="e#16358#16378#0" expanded="true" />
+            <element signature="e#16527#16547#0" expanded="true" />
+            <element signature="e#16714#16734#0" expanded="true" />
+            <element signature="e#16852#16872#0" expanded="true" />
+            <element signature="e#17166#17186#0" expanded="true" />
+            <element signature="e#17419#17439#0" expanded="true" />
+            <element signature="e#17893#17913#0" expanded="true" />
+            <element signature="e#18225#18245#0" expanded="true" />
+            <element signature="e#18943#18963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash-map/HashMapaLan.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="197" lean-forward="true" selection-start-line="197" selection-end-line="197" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#257#287#0" expanded="true" />
+            <element signature="e#606#636#0" expanded="true" />
+            <element signature="e#1811#1841#0" expanded="true" />
+            <element signature="e#1935#1965#0" expanded="true" />
+            <element signature="e#2148#2178#0" expanded="true" />
+            <element signature="e#2495#2525#0" expanded="true" />
+            <element signature="e#2608#2638#0" expanded="true" />
+            <element signature="e#2762#2792#0" expanded="true" />
+            <element signature="e#3240#3270#0" expanded="true" />
+            <element signature="e#3797#3827#0" expanded="true" />
+            <element signature="e#4236#4266#0" expanded="true" />
+            <element signature="e#4679#4709#0" expanded="true" />
           </folding>
         </state>
       </provider>
